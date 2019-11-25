@@ -1,5 +1,5 @@
 # IceBook-Django
-This is a social media website built using django.
+This is a social media website built using Django web framework.
 
 # Setup Guide
 
